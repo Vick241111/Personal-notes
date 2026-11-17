@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "1794821876092",
+    "title": "Monday Class",
+    "content": "Today we are working on Nodejs with Victors demo  assigmnet",
+    "createdAt": "2026-11-16T09:37:56.093Z"
+  },
+  {
+    "id": "1794822621630",
+    "title": "Create more notes",
+    "content": "Random notes",
+    "createdAt": "2026-11-16T09:50:21.630Z"
+  },
+  {
+    "id": "1794822628309",
+    "title": "Create more notes2",
+    "content": "Random notes",
+    "createdAt": "2026-11-16T09:50:28.309Z"
+  },
+  {
+    "id": "1794823278390",
+    "title": "Create more notes23",
+    "content": "Random notes",
+    "createdAt": "2026-11-16T10:01:18.390Z"
+  },
+  {
+    "id": "1794823664258",
+    "title": "Explanation",
+    "content": "Random notes",
+    "createdAt": "2026-11-16T10:07:44.258Z"
+  },
+  {
+    "id": "1794829691753",
+    "title": "Explanation anothe one",
+    "content": "Dj Khalid",
+    "createdAt": "2026-11-16T11:48:11.753Z"
+  }
+]
