@@ -2,7 +2,7 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 
-const app = express();
+const app = express();c 
 const PORT = 3000;
 const FILE_PATH = path.join(__dirname, 'notes.json');
 
