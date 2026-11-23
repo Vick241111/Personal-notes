@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import express from 'express';
 import notesRoutes from './routes/notes.routes';
 import authRoutes from './routes/auth.routes';

@@ -26,6 +26,7 @@ const users = getAllUsers();
 
 // Check if user already exists
 const existingUser = users.find(u => u.email === email);
+console.log("exixting uSer:", existingUser)
 if (existingUser) {
 throw new Error('User already exists');
 }

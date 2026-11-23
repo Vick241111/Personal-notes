@@ -4,5 +4,47 @@
     "username": "vick",
     "email": "victorokpan44@gmail.com",
     "password": "$2b$10$8igvxTfFUU.TjWa16F8kNeGfY16HOUDyN2WGP3IypS3NcHG/cZVSi"
+  },
+  {
+    "id": "1795167240472",
+    "username": "Okaye",
+    "email": "john@example.come",
+    "password": "$2b$10$MMlp8F3N6WWo/TxrPDd9wuvwmYjdPnFxy4sQxAhVUnice1W9cH7VW"
+  },
+  {
+    "id": "1795167495499",
+    "username": "Okaye",
+    "email": "john2@example.come",
+    "password": "$2b$10$UNuvJG2y1u9Wh5QZGIb/LeCJpdkkIC522ISPGLdFaYQKoBI1lSKn2"
+  },
+  {
+    "id": "1795171660735",
+    "username": "Okoy John",
+    "email": "johncena@example.come",
+    "password": "$2b$10$URULe3I1gyyvdqRUPfxUx.egCglURInXp.RBN58YfKw4nUkpE5Gvm"
+  },
+  {
+    "id": "1795174888408",
+    "username": "Okoy John",
+    "email": "1234567890",
+    "password": "$2b$10$u.PbWqb0TzDqcRdivl.4mu51y1dMUllP.hWZnc94bDrq0iagmpYvK"
+  },
+  {
+    "id": "1795174954121",
+    "username": "Okoy John",
+    "email": "12345678907",
+    "password": "$2b$10$VxCkmUXMOP32OlT4U5N8s.VxhhXKhuk6xDVfF1gW5MHsxDUwTfQFu"
+  },
+  {
+    "id": "1795174979562",
+    "username": 234,
+    "email": "12345678",
+    "password": "$2b$10$GThFicklHlaAxOPUo9q4cuilKtjXHrV1OPCTOi9t8fT/WQse84Ap2"
+  },
+  {
+    "id": "1795424590596",
+    "username": "Okaye",
+    "email": "john8@example.come",
+    "password": "$2b$10$mCyYtvk/xegncX4daKRWnOfyrjY3ib7RPKZlESPFbgXv9R8TzQfla"
   }
 ]
