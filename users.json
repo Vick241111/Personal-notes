@@ -9,6 +9,21 @@
     "id": "1795347530918",
     "username": "vick",
     "email": "victorokpan2@gmail.com",
-    "password": "$2b$10$njK4lc0o5BvFsWHyS6XwGuwJ0i/ZVY.tB3WyejK0yb8C15IXWnx/C"
+    "password": "$2b$10$njK4lc0o5BvFsWHyS6XwGuwJ0i/ZVY.tB3WyejK0yb8C15IXWnx/C",
+    "role": "admin"
+  },
+  {
+    "id": "1795593796870",
+    "username": "vick11",
+    "email": "victorokpan20@gmail.com",
+    "password": "$2b$10$z4CSvUfpyU348WhiIL.Fl.VTEsAvrm8f.5MG5R3e/MeuJxatQzK22",
+    "role": "user"
+  },
+  {
+    "id": "1795594377577",
+    "username": "vick111",
+    "email": "victorokpan200@gmail.com",
+    "password": "$2b$10$H08N6uhEi4zSIyAtsH6OheJmu8E0gq0FhdSVjKZrcGDblOaa4kowu",
+    "role": "user"
   }
 ]

@@ -5,6 +5,7 @@ export interface Note {
 id: string;
 title: string;
 content: string;
+userId: string; 
 }
 
 const filePath = path.join(__dirname, '../../notes.json');

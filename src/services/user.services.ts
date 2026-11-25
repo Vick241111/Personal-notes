@@ -7,6 +7,7 @@ id: string;
 username: string;
 email: string;
 password: string; // It will store the HASHED password, not the real one
+role: "user" | "admin"; 
 }
 
 const filePath = path.join(__dirname, '../../users.json');
@@ -38,7 +39,8 @@ const newUser: User = {
 id: Date.now().toString(),
 username,
 email,
-password: hashedPassword
+password: hashedPassword,
+role: "user"
 };
 
 users.push(newUser);

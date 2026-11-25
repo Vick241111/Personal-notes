@@ -1,5 +1,6 @@
 import { Request, Response } from 'express';
 import { createUser, getAllUsers, checkPassword } from '../services/user.services';
+import jwt from 'jsonwebtoken';
 
 // POST /api/auth/register
 export async function register(req: Request, res: Response) {
@@ -42,6 +43,16 @@ return res.status(401).json({ message: 'Invalid email or password' });
 }
 
 res.json({ message: 'Login successful', username: user.username });
+
+// CREATE JWT TOKEN
+const token = jwt.sign(
+    { id: user.id, role: user.role },
+    process.env.JWT_SECRET as string,
+    { expiresIn: '1d' }
+)
+
+
+
 }
 
 
