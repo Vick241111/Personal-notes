@@ -25,5 +25,12 @@
     "email": "victorokpan200@gmail.com",
     "password": "$2b$10$H08N6uhEi4zSIyAtsH6OheJmu8E0gq0FhdSVjKZrcGDblOaa4kowu",
     "role": "user"
+  },
+  {
+    "id": "1795596420677",
+    "username": "vick114",
+    "email": "victorokpan201@gmail.com",
+    "password": "$2b$10$UAn8Ppkx.69LYDmfoTgK.uqUMOe0hq9OiKtNMmjz1YPMNhwhZ4cee",
+    "role": "user"
   }
 ]
